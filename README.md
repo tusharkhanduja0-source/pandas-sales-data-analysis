@@ -25,11 +25,11 @@ It covers data inspection, data cleaning, data transformation, Exploratory Data 
 - data_inspection/
 - data_cleaning/
 - data_transformation/
-- EDA/
-- KPI/
+- analysis data/
+- KPI reports/
 - pivot_table/
-- reporting/
-- export/
+- projectview.md/
+- sales raw analysis/
 
 ## Project Tasks
 
@@ -48,7 +48,7 @@ It covers data inspection, data cleaning, data transformation, Exploratory Data 
 - Convert Date to datetime
 - Extract Month
 
-### 4. Exploratory Data Analysis
+### 4. Analysis data
 - Total and average sales
 - Sales by city
 - Sales by category
